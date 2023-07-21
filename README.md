@@ -1,23 +1,9 @@
-# <img src="https://thedailynews.ink/assets/icons/logo.svg" alt= “Logo” width="30" height="30"> About The Daily News
+# About Me:
+Hi, I'm nero.<br>The person behind DailyNws, The Daily News is an online news website combining news, games, and archives to create a dynamic user experience. With a clean and intuitive design, users can access daily updated news directly from the landing page. The site also offers a game section featuring games related to the day's news, adding an interactive element. An archived section allows readers to revisit older articles easily. Developed using HTML, JavaScript, and CSS, the site is hosted on Replit with a domain from GoDaddy. The project aims to include tasks like mobile UI fixes, beta testing, feature brainstorming, contact form integration, bug-hunting rewards, and an AI-powered content automation system.
 
-The Daily News is a small start-up company committed to delivering a unique and dynamic news experience to its users. Our online news website combines news, games, and archives to create an engaging platform that keeps you informed and entertained.
+# Languages:
+![HTML](https://i.postimg.cc/1zcNNFVg/bxl-html5.png) HTML  ![JavaScript](https://i.postimg.cc/8PjWns93/bxl-javascript.png) JavaScript  ![TailwindCSS](https://i.postimg.cc/YCFFMZpz/bxl-tailwind-css.png) TailwindCSS  ![NodeJS](https://i.postimg.cc/CKVq175T/bxl-nodejs.png) NodeJS
 
-## Our Mission
-
-We strive to provide a clean and intuitive design that allows users to access daily updated news directly from our landing page. Say goodbye to navigating through annoying user interfaces! Our goal is to make your news reading experience seamless and enjoyable.
-
-## Our Goals
-
-- **Content Automation**: We are trying to make a AI that can collect information, sources and possibly automate most of the writing for the site
-
-## Contact Us
-
-Follow us on social media and stay up to date with the latest news and updates:
-
-- ![Github Icon](https://thedailynews.ink/assets/icons/github.svg) [Github](https://github.com/dailynws/)
-- ![Twitter Icon](https://thedailynews.ink/assets/icons/twitter.svg) [Twitter](https://twitter.com/dailynws_status)
-- ![Website Icon](https://thedailynews.ink/assets/icons/url.svg) [Website](https://thedailynews.ink)
-- ![Email Icon](https://thedailynews.ink/assets/icons/email.svg) hello@thedailynews.ink
-
-We appreciate your support and welcome any feedback or inquiries you may have. Stay informed, entertained, and connected with The Daily News!
-
+# Stats:
+![](https://github-readme-stats.vercel.app/api?username=dailynws&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dailynws&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
